@@ -1,4 +1,6 @@
 # testing-rep
-a test for github
-i write something 
+A test for github
+
+
+welcome to git 
 
